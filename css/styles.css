@@ -1,0 +1,49 @@
+.header {
+	background-color: rgba(0, 0, 0, .5);
+	width: 100%;
+	height: 70px;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+
+.header h1 {
+	color: #fff;
+}
+
+.headerLogo {
+	width: 100px;
+	height: 100px;
+	background-image: url(../needimg/logo.png);
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+	top: 15px;
+	right: 18px;
+}
+
+.content {
+	background-color: #6087ba;
+	width: 100%;
+	height: 220px;
+}
+.bigImg {
+	background-image: url(../needimg/shap.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	min-height: 500px;
+}
+.imgfooter {
+	width: 100%;
+	background-size: cover;
+	height: 298px;
+	background-repeat: no-repeat;
+	background-image: url(../needimg/fire.png);
+}
+.map {
+	background-color: black;
+	position: relative;
+	width: 100%;
+	padding-top: 5px;
+}

@@ -1,0 +1,87 @@
+h1 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	line-height: 65px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	left: 15px;
+}
+p {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 24px;
+	line-height: 36px;
+	text-align: left;
+}
+h2 {
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 24px;
+	line-height: 36px;
+	text-align: center;
+	position: absolute;
+	left: 10px; 
+}
+h3 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 130px;
+	right: 250px;
+}
+h4 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 30px;
+	right: 540px;
+}
+h5 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 100px;
+	right: 510px;
+}
+h6 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 190px;
+	right: 510px;
+}
+
+h7 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 255px;
+	right: 510px;
+}
+h8 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 220px;
+	right: 160px;
+}
+h9 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 36px;
+	margin: auto;
+	color: white;
+	position: absolute;
+	top: 60px;
+	right: 350px;
+}
